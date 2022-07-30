@@ -1,0 +1,15 @@
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Nesibe\source\repos\Mobiroller\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
